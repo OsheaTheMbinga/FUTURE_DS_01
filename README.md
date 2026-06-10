@@ -84,7 +84,7 @@ Sample Superstore Dataset
 
 - Business_Sales_Performance_Analytics.xlsx
 - Business_Report.pdf
-- Dashboard.png
+- Dashboard.jpeg
 - Sample-Superstore.csv
 
 ---
