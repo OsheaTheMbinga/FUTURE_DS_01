@@ -2,6 +2,10 @@
 
 ## Future Interns – Data Science & Analytics Internship (Task 1)
 
+## Dashboard Preview
+
+![Business Sales Dashboard](Dashboard.jpeg)
+
 ### Project Overview
 
 This project was completed as part of the Future Interns Data Science & Analytics Internship.
